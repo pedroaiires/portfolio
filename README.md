@@ -6,3 +6,5 @@
 
 -HTML;<br>
 -CSS;
+
+<img src="https://github.com/PedroAiires/portfolio/blob/main/portfolio.gif">
